@@ -32,7 +32,7 @@
 ---
 
 ## 📫 Let's Connect  
-🌐 [Portfolio/Projects](https://github.com/roshnisharma2811)  
+🌐 [Github](https://github.com/roshnisharma2811)  
 💼 [LinkedIn](https://www.linkedin.com/in/roshni-sharma-767544251)  
 📧 roshnis1127@gmail.com  
 
