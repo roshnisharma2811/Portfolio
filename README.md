@@ -23,12 +23,6 @@
 - 🔐 **[Fake Profile Detection (ML + Cybersecurity)]**  
   Machine learning model using TensorFlow & Keras with 90–98% accuracy for fake profile detection.  
 
-- 🏦 **[SmartBank Branch & ATM Management (JPMC Virtual Experience)]**  
-  Scalable cloud-native platform with Spring Boot, Kafka, React.js, Docker, and Kubernetes.  
-
-- 🌐 **[UniSync – College Collaboration Portal]**  
-  Full-stack app with authentication, real-time collaboration, and CI/CD deployment.  
-
 ---
 
 ## 📫 Let's Connect  
